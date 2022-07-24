@@ -37,7 +37,8 @@ You are important.
 - Anthony Gonzalez
 - Ben Chen
 - Brandon Frausto
-- Tom
+- JR
+- Thompson
 
 ### Resources
 
